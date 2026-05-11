@@ -11,3 +11,13 @@ h1 {
     padding: 32px 16px;
     margin: 0 0 16px 0;
 }
+ul, ol, p {
+    box-sizing: border-box;
+    list-style: none;
+    border-left: 16px solid palegoldenrod;
+    padding: 16px;
+    margin: 0 auto;
+    font-size: 20px;
+    width: 960px;
+    text-align: initial;
+}
