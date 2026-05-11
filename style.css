@@ -21,3 +21,8 @@ ul, ol, p {
     width: 960px;
     text-align: initial;
 }
+img {
+    width: 960px;
+    height: 300px;
+    object-fit: cover;
+}
